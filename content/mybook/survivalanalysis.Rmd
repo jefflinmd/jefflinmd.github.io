@@ -1,0 +1,23 @@
+---
+title: 存活分析 Survival Analysis
+author: Jeff Lin
+date: '2018-10-15'
+slug: survival-analysis
+categories:
+  - Survival
+tags:
+  - Survival
+---
+![](/2008surv/2008BookCover.jpg){width=10%}
+
+存活分析 Survival Analysis (2008)
+
+作者: 林建甫, Jeff Lin, MD, PhD.
+
+出版: 雙業書局, 2008
+
+[目錄 Table of Contents](/2008surv/2008B5SurvBookCoverToContents.pdf)
+
+[資料檔案 Data](/2008surv/2008SurvBookDataExcel.rar)
+
+[程式檔案 Programs](/2008surv/2008SurvBookPost.rar) 

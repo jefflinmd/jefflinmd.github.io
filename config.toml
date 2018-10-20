@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Jeff Lin"
+title = "Jeff Lin 林建甫"
 theme = "hugo-ivy"
 googleAnalytics = ""
 disqusShortname = ""
@@ -15,6 +15,7 @@ paginate = 10
 
 defaultContentLanguage = "en"
 hasCJKLanguage = true  # Set `true` for Chinese/Japanese/Korean languages.
+uglyURLs = false
 
 
 [outputs]
@@ -30,25 +31,36 @@ hasCJKLanguage = true  # Set `true` for Chinese/Japanese/Korean languages.
     name = "Home"
     url = "/"
     weight = 1
+    
 [[menu.main]]
     name = "About"
     url = "/about/"
     weight = 2
+    
+# [[menu.main]]
+#    name = "Categories"
+#    url = "/categories/"
+#    weight = 3
+    
+# [[menu.main]]
+#     name = "Tags"
+#     url = "/tags/"
+#    weight = 4
+    
 [[menu.main]]
-    name = "Categories"
-    url = "/categories/"
+    name = "My Book"
+    url = "/mybook/"
     weight = 3
-[[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 4
-[[menu.main]]
-    name = "Subscribe"
-    url = "/index.xml"
+    
+
+# [[menu.main]]
+#     name = "Subscribe"
+#     url = "/index.xml"
 
 [params]
-    description = "A Hugo theme ported from the static site generator Ivy."
-    footer = "&copy; [Yihui Xie](https://yihui.name) 2017 | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+    description = "Orthopedics, Biostatistics, Data Science"
+    # footer = "&copy; [Jeff Lin](https://yihui.name) 2017 | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+    footer = "&copy; [Jeff Lin](https://jefflin.netlify.com/ 2018)"
 
   highlightjsVersion = "9.12.0"
   highlightjsCDN = "//cdn.bootcss.com"
@@ -59,8 +71,8 @@ hasCJKLanguage = true  # Set `true` for Chinese/Japanese/Korean languages.
   MathJaxVersion = "2.7.5"
   
   # Your details.
-  name = "林建甫 Jeff Lin"
-  role = "Biostatistician"
+  name = "Jeff Lin 林建甫"
+  role = "Orthopedic Surgeon, Biostatistician"
   deteFormat ="December 31, 2018"
   email = "jefflinmd38@gmail.com"
 

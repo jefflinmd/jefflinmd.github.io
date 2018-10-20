@@ -1,0 +1,109 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<title>Survival Analysis Book</title>
+</head>
+
+<body>
+
+<p align="left"><b><font size="5" face="標楷體">存活分析</font><font size="5" face="Times New Roman"> 
+(Survival Analysis)&nbsp; 2008</font></b></p>
+
+<p style="MARGIN-RIGHT: -1px; margin-top:12; margin-bottom:12" align="justify">
+<b>
+<font size="4" face="標楷體">作者: 林建甫, </font><span lang="EN-US">
+<font size="4" face="Times New Roman">Jeff Lin, MD, PhD.</font></span></b></p>
+<p style="margin-right: -1px; margin-top: 12; margin-bottom: 12" align="justify">
+<b><font size="4" face="標楷體">出版: <a href="http://www.yehyeh.com.tw">雙業書局</a>, </font>
+<font size="4" face="Times New Roman"> 
+2008</font></b></p>
+<p style="margin-right: -1px; margin-top: 12; margin-bottom: 12" align="justify">　</p>
+<p style="margin-right: -1px; margin-top: 12; margin-bottom: 12" align="justify">
+<img border="0" src="2008BookCover.jpg" width="286" height="413"></p>
+<p style="margin-right: -1px; margin-top: 12; margin-bottom: 12" align="justify">　</p>
+<p style="margin-right: -1px; margin-top: 12; margin-bottom: 12" align="justify">
+<b><font face="標楷體"><a href="2008B5SurvBookCoverToContents.pdf">序言與目錄</a></font></b></p>
+<p style="margin-right: -1px; margin-top: 12; margin-bottom: 12" align="justify">
+<b><font face="標楷體"><a href="2008B5SurvBookChapter01.pdf">第 1 章</a></font></b></p>
+<p style="margin-right: -1px; margin-top: 12; margin-bottom: 12" align="justify">　</p>
+<p style="margin-right: -1px; margin-top: 12; margin-bottom: 12" align="justify">
+<b><font face="標楷體">書中資料檔案: </font><font face="Times New Roman"> <a href="2008SurvBookDataExcel.rar">
+2008SurvBookDataExcel.rar</a></font></b></p>
+<p style="margin-right: -1px; margin-top: 12; margin-bottom: 12" align="justify">
+<b><font face="標楷體"><a href="../Teach/Surv/2009Surv.htm">書中程式檔: 整理中 (部分程式參見教學網頁)</a></font></b></p>
+<p style="margin-right: -1px; margin-top: 12; margin-bottom: 12" align="justify">　</p>
+
+<p style="MARGIN-RIGHT: -1px" align="justify">
+<b><font face="Times New Roman">Topics: </font><font face="標楷體">林建甫</font><font face="Times New Roman"> (2008), </font>
+<font face="標楷體">存活分析</font></b></p>
+
+<blockquote>
+
+<p style="margin-right: -1px; margin-top:10; margin-bottom:0"><b>
+<font face="標楷體">第 </font><font face="Times New Roman">01</font><font face="標楷體"> 
+章 : 存活分析概論 </font></b></p>
+
+<p style="margin-right: -1px; margin-top:10; margin-bottom:0"><b>
+<font face="標楷體">第 </font><font face="Times New Roman">02</font><font face="標楷體"> 
+章 : 存活函數, 設限與截略 </font></b></p>
+
+<p style="margin-right: -1px; margin-top:10; margin-bottom:0"><b>
+<font face="標楷體">第 </font><font face="Times New Roman">03</font><font face="標楷體"> 
+章 : 參數模型存活分析</font></b></p>
+
+<p style="margin-right: -1px; margin-top:10; margin-bottom:0"><b>
+<font face="標楷體">第 </font><font face="Times New Roman">04</font><font face="標楷體"> 
+章 : 無母數方法估計存活函數 x</font></b></p>
+
+<p style="margin-right: -1px; margin-top:10; margin-bottom:0"><b>
+<font face="標楷體">第 </font><font face="Times New Roman">05</font><font face="標楷體"> 
+章 : 無母數方法: 比較兩個或多個樣本之存活函數 </font></b></p>
+
+<p style="margin-right: -1px; margin-top:10; margin-bottom:0"><b>
+<font face="標楷體">第 </font><font face="Times New Roman">06&nbsp; </font>
+<font face="標楷體">章 : </font><font face="Times New Roman">Cox </font>
+<font face="標楷體">比例危險模型</font></b></p>
+
+<p style="margin-right: -1px; margin-top:10; margin-bottom:0"><b>
+<font face="標楷體">第 </font><font face="Times New Roman">07</font><font face="標楷體"> 
+章 : </font><font face="Times New Roman">Cox </font><font face="標楷體">延伸模型 </font>
+</b></p>
+
+<p style="margin-right: -1px; margin-top:10; margin-bottom:0"><b>
+<font face="標楷體">第 </font><font face="Times New Roman">08</font><font face="標楷體"> 
+章 : </font><font face="Times New Roman">Cox </font><font face="標楷體">迴歸模型之診斷 
+</font></b></p>
+
+<p style="margin-right: -1px; margin-top:10; margin-bottom:0"><b>
+<font face="標楷體">第 </font><font face="Times New Roman">09</font><font face="標楷體"> 
+章 : 截略與區間設限資料存活分析</font></b></p>
+
+<p style="margin-right: -1px; margin-top:10; margin-bottom:0"><b>
+<font face="標楷體">第 </font><font face="Times New Roman">10</font><font face="標楷體"> 
+章 : 多變量存活分析簡介</font></b></p>
+
+<p style="margin-right: -1px; margin-top:10; margin-bottom:0"><b>
+<font face="標楷體">第 </font><font face="Times New Roman">11</font><font face="標楷體"> 
+章 : 群聚存活資料: 邊際模型</font></b></p>
+
+<p style="margin-right: -1px; margin-top:10; margin-bottom:0"><b>
+<font face="標楷體">第 </font><font face="Times New Roman">12</font><font face="標楷體"> 
+章 : 群聚存活資料: 脆弱模型</font></b></p>
+
+<p style="margin-right: -1px; margin-top:10; margin-bottom:0"><b>
+<font face="標楷體">第 </font><font face="Times New Roman">13</font><font face="標楷體"> 
+章 : 復發事件資料: 邊際模型</font></b></p>
+
+<p style="margin-right: -1px; margin-top:10; margin-bottom:0"><b>
+<font face="標楷體">第 </font><font face="Times New Roman">04</font><font face="標楷體"> 
+章 : 復發事件資料: 脆弱模型</font></b></p>
+
+</blockquote>
+
+<p style="margin-right: -1px; margin-top: 12; margin-bottom: 12" align="justify">　</p>
+<p style="margin-right: -1px; margin-top: 12; margin-bottom: 12" align="justify">　</p>
+
+</body>
+
+</html>

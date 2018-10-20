@@ -1,0 +1,19 @@
+---
+title: My Books 
+author: Jeff Lin
+date: '2018-10-10'
+slug: My Books
+categories:
+  - Example
+  - Survival
+  - Regression
+  - R
+tags:
+  - Survival
+  - blogdown
+  - Regression
+---
+
+![存活分析 Survival Analysis (2008)](survivalanalysis.html)
+
+![迴歸分析 Regression Analysis (2017)](regression.html)

@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on Jeff Lin</title>
+    <title>R on Jeff Lin 林建甫</title>
     <link>/categories/r/</link>
-    <description>Recent content in R on Jeff Lin</description>
+    <description>Recent content in R on Jeff Lin 林建甫</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Books</title>
+      <link>/mybook/my-books/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/mybook/my-books/</guid>
+      <description>存活分析 Survival Analysis (2008) 迴歸分析 Regression Analysis (2017)</description>
+    </item>
     
     <item>
       <title>Hello R Markdown</title>

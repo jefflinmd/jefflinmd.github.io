@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mybooks on Jeff Lin 林建甫</title>
+    <link>/mybook/</link>
+    <description>Recent content in Mybooks on Jeff Lin 林建甫</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/mybook/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>存活分析 Survival Analysis</title>
+      <link>/mybook/survival-analysis/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/mybook/survival-analysis/</guid>
+      <description>存活分析 Survival Analysis (2008) 作者: 林建甫, Jeff Lin, MD, PhD. 出版: 雙業書局, 2008 目錄 Table of Contents 資料檔案 Data 程式檔案 Programs</description>
+    </item>
+    
+    <item>
+      <title>迴歸分析 Regression Analysis</title>
+      <link>/mybook/regression-analysis/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/mybook/regression-analysis/</guid>
+      <description>迴歸分析 Regression Analysis (2017) 作者: 林建甫, Jeff Lin, MD, PhD.出版: 淐海書局, 2017 目錄 Table of Contents 資料檔案 Data</description>
+    </item>
+    
+    <item>
+      <title>My Books</title>
+      <link>/mybook/my-books/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/mybook/my-books/</guid>
+      <description>存活分析 Survival Analysis (2008) 迴歸分析 Regression Analysis (2017)</description>
+    </item>
+    
+  </channel>
+</rss>

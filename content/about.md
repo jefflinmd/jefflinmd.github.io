@@ -1,9 +1,13 @@
 ---
-title: About Hugo Ivy
-author: Yihui Xie
-date: '2017-08-06'
+title: Medicine & Statistics
+author: 林建甫 Jeff Lin
+date: '2018-10-15'
 ---
 
-This Hugo theme was ported from [Ivy](https://github.com/dmulholland/ivy), a minimalist website generator built in Python. I don't have time to document this theme. You have to read the source code to understand what it can do. All I can say for now is that I love it. It is clean, minimal, and responsive.
-
-I hope you will enjoy this theme. The source code is [on Github](https://github.com/yihui/hugo-ivy). Happy hacking!
+人生充滿著意外與驚喜, 在偶然的機緣下, 進入到醫學與統計的世界,
+先後受到醫學與統計師長們的悉心指導, 感激在心.
+感謝國立台北大學統計系的前輩與同事,
+讓我有機會參與統計系所的教學與研究工作.
+同時感謝所有在臨床醫學的師長與同事,
+在臨床工作上給予長期的支持與鼓勵.
+將這段跨領域的旅程中的片段, 紀錄在此.
