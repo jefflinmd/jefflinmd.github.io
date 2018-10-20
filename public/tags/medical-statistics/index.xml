@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Medical Statistics on Jeff Lin 林建甫</title>
+    <link>/tags/medical-statistics/</link>
+    <description>Recent content in Medical Statistics on Jeff Lin 林建甫</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/medical-statistics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R 基本程式語言</title>
+      <link>/rbookbasic/my-books/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/rbookbasic/my-books/</guid>
+      <description>R: Statistical Computing and Programming Language R: Medical Statistics / Biostatistics R: 基本程式語言與統計計算 2019RC01_Intro.pdf 2019RC02_ObjectVector.pdf 2019RC03_ObjectData.pdf 2019RC04_DataStructure.pdf 2019RC05_DataBasicInputOutput.pdf 2019RC06_FunctionBasic.pdf 2019RC07_Date.pdf 2019RC08_Character.pdf 2019RC09_GraphicsHigh.pdf 2019RC10_GraphicsLow.pdf 2019RC11_Programming.pdf 2019RC12_FunctionWriting.pdf 2019RC13_MatrixAlgebra.pdf 2019RC14_Factor.pdf 2019RC15_DataManagementApply.pdf 2019RC16_CrossTable.pdf 2019RC17_StatDescFunction.pdf</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,57 @@
+---
+title: R 基本程式語言
+author: Jeff Lin
+date: '2018-10-20'
+slug: My Books
+categories:
+  - R
+  - Medical Statistics
+  - Biostatistics
+  - Statistics
+tags:
+  - R
+  - Medical Statistics
+  - Biostatistics
+  - Statistics
+---
+
+R: Statistical Computing and Programming Language
+
+R: Medical Statistics / Biostatistics
+
+R: 基本程式語言與統計計算
+
+[2019RC01_Intro.pdf](/RBookBasic/2019RC01_Intro.pdf)
+
+[2019RC02_ObjectVector.pdf](/RBookBasic/2019RC02_ObjectVector.pdf)
+
+[2019RC03_ObjectData.pdf](/RBookBasic/2019RC03_ObjectData.pdf)
+
+[2019RC04_DataStructure.pdf](/RBookBasic/2019RC04_DataStructure.pdf)
+
+[2019RC05_DataBasicInputOutput.pdf](/RBookBasic/2019RC05_DataBasicInputOutput.pdf)
+
+[2019RC06_FunctionBasic.pdf](/RBookBasic/2019RC06_FunctionBasic.pdf)
+
+[2019RC07_Date.pdf](/RBookBasic/2019RC07_Date.pdf)
+
+[2019RC08_Character.pdf](/RBookBasic/2019RC08_Character.pdf)
+
+[2019RC09_GraphicsHigh.pdf](/RBookBasic/2019RC09_GraphicsHigh.pdf)
+
+[2019RC10_GraphicsLow.pdf](/RBookBasic/2019RC10_GraphicsLow.pdf)
+
+[2019RC11_Programming.pdf](/RBookBasic/2019RC11_Programming.pdf)
+
+[2019RC12_FunctionWriting.pdf](/RBookBasic/2019RC12_FunctionWriting.pdf)
+
+[2019RC13_MatrixAlgebra.pdf](/RBookBasic/2019RC13_MatrixAlgebra.pdf)
+
+[2019RC14_Factor.pdf](/RBookBasic/2019RC14_Factor.pdf)
+
+[2019RC15_DataManagementApply.pdf](/RBookBasic/2019RC15_DataManagementApply.pdf)
+
+[2019RC16_CrossTable.pdf](/RBookBasic/2019RC16_CrossTable.pdf)
+
+[2019RC17_StatDescFunction.pdf](/RBookBasic/2019RC17_StatDescFunction.pdf)
+

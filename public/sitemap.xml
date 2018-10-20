@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/rbookbasic/my-books/</loc>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
     <lastmod>2018-10-15T00:00:00+00:00</lastmod>
   </url>
@@ -52,7 +57,20 @@
   </url>
   
   <url>
+    <loc>/tags/biostatistics/</loc>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/biostatistics/</loc>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -64,7 +82,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -82,6 +100,18 @@
   <url>
     <loc>/tags/mathjax/</loc>
     <lastmod>2016-02-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/medical-statistics/</loc>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/medical-statistics/</loc>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -110,14 +140,26 @@
   </url>
   
   <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/r/</loc>
-    <lastmod>2018-10-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/rbookbasic/</loc>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -140,6 +182,18 @@
   </url>
   
   <url>
+    <loc>/tags/statistics/</loc>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/statistics/</loc>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/survival/</loc>
     <lastmod>2018-10-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -153,7 +207,7 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

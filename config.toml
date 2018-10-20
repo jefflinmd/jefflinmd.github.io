@@ -52,6 +52,11 @@ uglyURLs = false
     url = "/mybook/"
     weight = 3
     
+[[menu.main]]
+    name = " R 基本程式語言"
+    url = "/RBookBasic/"
+    weight = 4
+    
 
 # [[menu.main]]
 #     name = "Subscribe"
